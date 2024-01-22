@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "e68e4f27f0a3efc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc2426e113f7d7c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e71eb0cdc9422bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9f5e0592a58f39c",
+    "type": "split",
+    "children": [
+      {
+        "id": "229a931902196dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c79914f79f7a531",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bb9771858ece89f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b786149dd101b4f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9f9f24b3b7d328b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0b9176ae16c1eaa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e09b951891d971a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d509e4d373707cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36fbd41cc7f7592a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f1e62cabf0e5970",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "344e2457b967e31b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c79914f79f7a531",
+  "lastOpenFiles": [
+    "HOME/HOME.md",
+    "HOME/home.jpg",
+    "Untitled.md",
+    "Placement/Aptitude/Important Topics.md",
+    "Placement/Aptitude",
+    "Placement",
+    "Home.md",
+    "home.jpg",
+    "wallpaperflare-cropped.jpg.crdownload",
+    "home.jpg",
+    "wallpaperflare.com_wallpaper.jpg.crdownload",
+    "Welcome.md"
+  ]
+}

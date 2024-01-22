@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "canvas"
+  ],
+  "cssTheme": "Dracula Official",
+  "baseFontSize": 16,
+  "nativeMenus": false
+}

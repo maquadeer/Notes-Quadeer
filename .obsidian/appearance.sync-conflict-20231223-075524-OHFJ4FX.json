@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ],
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 16
+}
