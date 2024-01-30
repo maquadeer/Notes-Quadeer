@@ -5,7 +5,8 @@
     "dashboard-ReadLineLength",
     "canvas"
   ],
-  "cssTheme": "Dracula Official",
-  "baseFontSize": 16,
-  "nativeMenus": false
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 17,
+  "nativeMenus": false,
+  "theme": "moonstone"
 }
