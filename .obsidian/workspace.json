@@ -15,9 +15,9 @@
               "state": {
                 "file": "SE/Untitled.canvas",
                 "viewState": {
-                  "x": 499.3761381407554,
-                  "y": 472.59301951174245,
-                  "zoom": 0.6000000000000002
+                  "x": 7923.894867536224,
+                  "y": 1318.6812474028534,
+                  "zoom": -4
                 }
               }
             }
@@ -154,29 +154,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "f474bc8d6aaf03b2",
   "lastOpenFiles": [
+    "Pasted image 20240212233137.png",
+    "Pasted image 20240212233104.png",
+    "Pasted image 20240212233056.png",
+    "Pasted image 20240212233005.png",
+    "Pasted image 20240212232955.png",
+    "Pasted image 20240212232918.png",
+    "Pasted image 20240212232910.png",
+    "Pasted image 20240212232824.png",
+    "Pasted image 20240212232815.png",
+    "Pasted image 20240212232732.png",
+    "Pasted image 20240212232629.png",
+    "SE/Untitled.canvas",
     "Abstract1.md",
     "Abstract.md",
-    "Pasted image 20240212211000.png",
-    "Pasted image 20240212210947.png",
-    "Pasted image 20240212210942.png",
-    "Pasted image 20240212210804.png",
-    "Pasted image 20240212210753.png",
-    "Pasted image 20240212210745.png",
-    "Pasted image 20240212210305.png",
-    "Pasted image 20240212210253.png",
-    "Pasted image 20240212210129.png",
-    "Pasted image 20240212210118.png",
     "SE/Programs.md",
-    "SE/Untitled.canvas",
     "SE",
     "HOME/HOME.md",
     "LAB/Untitled.canvas",
@@ -208,7 +205,6 @@
     "books/Atomic Habits Summary (by James Clear).md",
     "books/Pir-e-kamil.md",
     "books",
-    "CN/TCP-ITERATIVE.md",
     "CN/Basics.png.crdownload",
     "CN/Unconfirmed 214372.crdownload",
     "favicon"
