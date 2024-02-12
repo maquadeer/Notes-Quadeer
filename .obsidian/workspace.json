@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc2426e113f7d7c2",
+        "id": "5a0fddaa8aa843ec",
         "type": "tabs",
         "children": [
           {
-            "id": "e71eb0cdc9422bdd",
+            "id": "f474bc8d6aaf03b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "SE/Untitled.canvas",
+                "viewState": {
+                  "x": 499.3761381407554,
+                  "y": 472.59301951174245,
+                  "zoom": 0.6000000000000002
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "SE/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "SE/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "SE/Untitled.canvas"
               }
             }
           }
@@ -146,29 +149,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "8c79914f79f7a531",
+  "active": "f474bc8d6aaf03b2",
   "lastOpenFiles": [
+    "Pasted image 20240212211000.png",
+    "Pasted image 20240212210947.png",
+    "Pasted image 20240212210942.png",
+    "Pasted image 20240212210804.png",
+    "Pasted image 20240212210753.png",
+    "Pasted image 20240212210745.png",
+    "Pasted image 20240212210305.png",
+    "Pasted image 20240212210253.png",
+    "Pasted image 20240212210129.png",
+    "Pasted image 20240212210118.png",
+    "Pasted image 20240212204716.png",
+    "SE/Programs.md",
+    "SE/Untitled.canvas",
+    "SE",
     "HOME/HOME.md",
-    "HOME/home.jpg",
-    "Untitled.md",
-    "Placement/Aptitude/Important Topics.md",
-    "Placement/Aptitude",
-    "Placement",
-    "Home.md",
-    "home.jpg",
-    "wallpaperflare-cropped.jpg.crdownload",
-    "home.jpg",
-    "wallpaperflare.com_wallpaper.jpg.crdownload",
-    "Welcome.md"
+    "LAB/Untitled.canvas",
+    "LAB/ASH WITH BASH.md",
+    "AI/AI-LAB.md",
+    "AI/Untitled.canvas",
+    "CN/Basic flow diagram of UDP and TCP.md",
+    "CN/TCP-CLIENT.md",
+    "CN/TCP-CONCURRENT.md",
+    "CN/TCP-TIME.md",
+    "CN/DNS-CLIENT.md",
+    "LAB/Unconfirmed 716966.crdownload",
+    "LAB/Unconfirmed 929140.crdownload",
+    "LAB",
+    "Untitled",
+    "AI",
+    "CN/UDP-TIME.md",
+    "CN/UDP-CLIENT.md",
+    "books/Books Tracking.md",
+    "books/Zero to One.md",
+    "books/The Lean Startup.md",
+    "books/The End of Procrastination.md",
+    "books/Āb-e Ḥayāt.md",
+    "books/Deep Work.md",
+    "books/Flow.md",
+    "books/Essentialism.md",
+    "books/Ego is the Enemy.md",
+    "books/Rich Dad Poor Dad.md",
+    "books/Atomic Habits Summary (by James Clear).md",
+    "books/Pir-e-kamil.md",
+    "books",
+    "CN/TCP-ITERATIVE.md",
+    "CN/DNS-SERVER.md",
+    "CN/Basics.png.crdownload",
+    "CN/Unconfirmed 214372.crdownload",
+    "favicon"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "sanctum@@code-label": true,
+  "sanctum@@code-lines": true,
+  "sanctum@@code-border": true,
+  "sanctum@@syntax-highlighting": "dracula",
+  "shimmering-focus@@uncolored-bold": false,
+  "shimmering-focus@@uncolored-italic": false,
+  "shimmering-focus@@highlight-hue-1": 100,
+  "shimmering-focus@@bg-hue-light": 200,
+  "shimmering-focus@@mac-os-native": true
+}

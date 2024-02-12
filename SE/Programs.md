@@ -1,0 +1,3 @@
+1. Draw ==use case== diagram & ==Activity diagram== with ==swim lane== for the front office system in a 5-star hotel described below. ==Front office== of any hotel is responsible for all ==room reservations==, ==room allocation== and ==final settlement of bills==. Any ==company or person== can reserve rooms for their future stay. They have to indicate from what ==date== to what they need the room. They also have to indicate ==how many rooms== are required. Sometimes the reservations ==could be cancelled== or dates or number of rooms ==changed==. For reservation, cancelled or modification of rooms, customer receives an ==acknowledgement== from the hotel.
+ ![[Pasted image 20240212193646.png]]
+ ![[Pasted image 20240212193757.png]]
