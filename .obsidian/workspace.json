@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5a0fddaa8aa843ec",
+        "id": "d8bba6ca8a72c5ad",
         "type": "tabs",
         "children": [
           {
@@ -15,9 +15,9 @@
               "state": {
                 "file": "SE/Untitled.canvas",
                 "viewState": {
-                  "x": 7923.894867536224,
-                  "y": 1318.6812474028534,
-                  "zoom": -4
+                  "x": 5629.142186810483,
+                  "y": -597.4462013537318,
+                  "zoom": -2.5
                 }
               }
             }
@@ -154,11 +154,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f474bc8d6aaf03b2",
   "lastOpenFiles": [
+    "HOME/HOME.md",
+    "SE/Programs.md",
+    "SE/Untitled.canvas",
+    "Programs.pdf",
     "Pasted image 20240212233137.png",
     "Pasted image 20240212233104.png",
     "Pasted image 20240212233056.png",
@@ -169,13 +177,9 @@
     "Pasted image 20240212232824.png",
     "Pasted image 20240212232815.png",
     "Pasted image 20240212232732.png",
-    "Pasted image 20240212232629.png",
-    "SE/Untitled.canvas",
     "Abstract1.md",
     "Abstract.md",
-    "SE/Programs.md",
     "SE",
-    "HOME/HOME.md",
     "LAB/Untitled.canvas",
     "LAB/ASH WITH BASH.md",
     "AI/AI-LAB.md",
@@ -206,7 +210,6 @@
     "books/Pir-e-kamil.md",
     "books",
     "CN/Basics.png.crdownload",
-    "CN/Unconfirmed 214372.crdownload",
-    "favicon"
+    "CN/Unconfirmed 214372.crdownload"
   ]
 }

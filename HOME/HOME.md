@@ -14,6 +14,9 @@ Just dropping by to say hi and remind you that this blog is your go-to spot for 
 >[!Danger] Reference for AI LAB
 >Refer the [[AI-LAB|AI lab]] for quick revision
 
+>[!Example] Reference for SE LAB
+>Refer the <a href=https://amber-meris-30.tiiny.site> SE PDF</a> or <a href=https://jmp.sh/s/VgsyW4w9TBacQ8EQrnKx> SE PDF</a> for quick revision
+
 | *CN* | *Program No.* | *Execute along side with* |
 | :--- | ---- | ---- |
 | [[Basic flow diagram of UDP and TCP\|Basics]] | 0 |  |

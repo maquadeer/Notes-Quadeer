@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "SE/Untitled.canvas"
+    },
+    {
+      "basename": "Pasted image 20240212201244",
+      "path": "Pasted image 20240212201244.png"
+    },
+    {
+      "basename": "Pasted image 20240212201213",
+      "path": "Pasted image 20240212201213.png"
+    },
+    {
+      "basename": "Pasted image 20240212200314",
+      "path": "Pasted image 20240212200314.png"
+    },
+    {
+      "basename": "HOME",
+      "path": "HOME/HOME.md"
+    },
+    {
+      "basename": "Programs",
+      "path": "SE/Programs.md"
+    },
+    {
+      "basename": "Programs",
+      "path": "Programs.pdf"
+    },
+    {
+      "basename": "Pasted image 20240212232910",
+      "path": "Pasted image 20240212232910.png"
+    },
+    {
+      "basename": "Pasted image 20240212232918",
+      "path": "Pasted image 20240212232918.png"
+    },
+    {
+      "basename": "Pasted image 20240212233005",
+      "path": "Pasted image 20240212233005.png"
+    },
+    {
+      "basename": "Pasted image 20240212233137",
+      "path": "Pasted image 20240212233137.png"
+    },
+    {
+      "basename": "Pasted image 20240212233056",
+      "path": "Pasted image 20240212233056.png"
+    },
+    {
       "basename": "Abstract",
       "path": "Abstract.md"
     },
@@ -11,10 +59,6 @@
     {
       "basename": "Important Topics",
       "path": "Placement/Aptitude/Important Topics.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "SE/Untitled.canvas"
     },
     {
       "basename": "Pasted image 20240212210947",
@@ -65,18 +109,6 @@
       "path": "Pasted image 20240212204657.png"
     },
     {
-      "basename": "Pasted image 20240212201244",
-      "path": "Pasted image 20240212201244.png"
-    },
-    {
-      "basename": "Pasted image 20240212201213",
-      "path": "Pasted image 20240212201213.png"
-    },
-    {
-      "basename": "Pasted image 20240212200314",
-      "path": "Pasted image 20240212200314.png"
-    },
-    {
       "basename": "Pasted image 20240212200001",
       "path": "Pasted image 20240212200001.png"
     },
@@ -95,14 +127,6 @@
     {
       "basename": "Pasted image 20240212194223",
       "path": "Pasted image 20240212194223.png"
-    },
-    {
-      "basename": "Programs",
-      "path": "SE/Programs.md"
-    },
-    {
-      "basename": "HOME",
-      "path": "HOME/HOME.md"
     },
     {
       "basename": "ASH WITH BASH",
@@ -175,42 +199,6 @@
     {
       "basename": "The End of Procrastination",
       "path": "books/The End of Procrastination.md"
-    },
-    {
-      "basename": "Deep Work",
-      "path": "books/Deep Work.md"
-    },
-    {
-      "basename": "Flow",
-      "path": "books/Flow.md"
-    },
-    {
-      "basename": "Essentialism",
-      "path": "books/Essentialism.md"
-    },
-    {
-      "basename": "Ego is the Enemy",
-      "path": "books/Ego is the Enemy.md"
-    },
-    {
-      "basename": "TCP-ITERATIVE",
-      "path": "CN/TCP-ITERATIVE.md"
-    },
-    {
-      "basename": "DNS-SERVER",
-      "path": "CN/DNS-SERVER.md"
-    },
-    {
-      "basename": "TCP-SERVER",
-      "path": "CN/TCP-SERVER.md"
-    },
-    {
-      "basename": "TCP-DT-SERVER",
-      "path": "CN/TCP-DT-SERVER.md"
-    },
-    {
-      "basename": "UDP-DT-SERVER",
-      "path": "CN/UDP-DT-SERVER.md"
     }
   ],
   "omittedPaths": [],
